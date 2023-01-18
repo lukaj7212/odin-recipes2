@@ -1,0 +1,8 @@
+.Recipes img{
+    width: 200px;
+    height: auto;
+}
+.Recipes a{
+    font-weight: bold;
+    color: teal;
+}
